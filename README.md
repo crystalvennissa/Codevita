@@ -1,2 +1,2 @@
 # Codevita
-Code vita test codes
+print("Hello world")
